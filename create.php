@@ -17,7 +17,7 @@
             <div class="form-group">
                 <label for="observations">Observações:</label>
                 <textarea type="text" class="form-control" id="observations" name="observations" placeholder="Insira as observações" rows="3"></textarea>
-            <div>
+            </div>
             <button type="submit" class="btn btn-primary">Cadastrar</button>         
         </form>
     </div>
